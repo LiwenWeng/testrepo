@@ -4,7 +4,6 @@ public class Class {
     public Class(int num) {
         this.num = num;
     }
-
     public int getNum() {
         return this.num;
     }

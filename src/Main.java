@@ -4,5 +4,6 @@ public class Main {
         System.out.println("yooo");
         System.out.println("sick");
         System.out.println("Class");
+        System.out.println("another one");
     }
 }

@@ -7,6 +7,10 @@ public class Class {
     public int getNum() {
         return this.num;
     }
+
+    public void setNum(int newNum) {
+        num = newNum;
+    }
     public int numPlus(int numX){
         return num + numX;
     }

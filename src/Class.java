@@ -13,4 +13,7 @@ public class Class {
     public int numX2(){
         return num * 2;
     }
+    public void printNum() {
+        System.out.println(num);
+    }
 }

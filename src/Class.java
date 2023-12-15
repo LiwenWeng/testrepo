@@ -10,4 +10,8 @@ public class Class {
     public int numPlus(int numX){
         return num + numX;
     }
+
+    public void printNum() {
+        System.out.println(num);
+    }
 }

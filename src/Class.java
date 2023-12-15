@@ -8,4 +8,7 @@ public class Class {
     public int getNum() {
         return this.num;
     }
+    public int numPlus(int numX){
+        return num + numX;
+    }
 }

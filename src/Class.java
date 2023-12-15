@@ -10,6 +10,9 @@ public class Class {
     public int numPlus(int numX){
         return num + numX;
     }
+    public void setNum(int newNum) {
+        num = newNum;
+    }
     public int numX2(){
         return num * 2;
     }

@@ -10,4 +10,7 @@ public class Class {
     public int numPlus(int numX){
         return num + numX;
     }
+    public int numX2(){
+        return num * 2;
+    }
 }
